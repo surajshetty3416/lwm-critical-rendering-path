@@ -7,7 +7,7 @@ Here we will try to optimize the critical rendering path so as to Improve our we
 
 ### Generic CRP can be given as
 ~~~~
-          ([DOM](building_dom/building_dom.md))
+          (DOM)
             |   } (JavaScript)
          (CSSOM)
             |
@@ -18,3 +18,7 @@ Here we will try to optimize the critical rendering path so as to Improve our we
          (Paint)
 
 ~~~~
+
+### Building DOM
+
+[Link](building_dom/building_dom.md)
