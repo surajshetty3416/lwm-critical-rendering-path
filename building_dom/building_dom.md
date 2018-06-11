@@ -14,4 +14,4 @@
         (DOM)     DOM is simply a node object with all contents and properties(passed through HTML file)
 
 ~~~~~
-[Explaination Link](https://css-tricks.com/dom/)
+[Explanation Link](https://css-tricks.com/dom/)
